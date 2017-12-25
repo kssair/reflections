@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+-> It creates a .git folder which is for tracking history of repo, show me that there are some untracked files, and no commits yet
+
+->staging area differ from working directory and  the repository that it atcs as a link between them, you can put files to the staging area in different time and then commit them at onces
