@@ -1,0 +1,7 @@
+Well it is obviously faster as the program do the comparison for me and just show me where the difference occur.
+Obviously you have very powerfull tool where you can easily check the changes and history of a file as well convenient back up when something goes wrong.
+Clearly manually you can choose better place to commit but as well in a case of breakdown you might not have a backup copy. 
+Don't know really, different purpose, architecture?
+compare commits with the previous one, the next on screen commit in git log command, then use git diff command with both IDs and that will show you the how the files differ
+Using version control makes me more confident to that I can easily revert changes which broken something, by checking out previous commits.
+Haven't done step 30 which personalize the user interface so can't really tell if I would like it. ><><><><>><><><><><>< doesn't look bad as it is now anyway.
