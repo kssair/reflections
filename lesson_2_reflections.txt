@@ -2,3 +2,14 @@ What happens when you initialize a repository? Why do you need to do it?
 -> It creates a .git folder which is for tracking history of repo, show me that there are some untracked files, and no commits yet
 
 ->staging area differ from working directory and  the repository that it atcs as a link between them, you can put files to the staging area in different time and then commit them at onces
+
+Staging area could be use at different files at different times and later you can commit them all at once.
+
+Branches are very useful for situation when you want try some new feature, new version of a code but don't want to change master version. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One branch which commits on the one that is checked out while merging. 
+
+Somehow it didn't show exact output as in the course, maybe different version of GIT?
+
+Automatic merging is good when there are no conflicts
