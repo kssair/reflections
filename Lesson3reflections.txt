@@ -3,3 +3,18 @@ A:When there is need for colaboration or I would like to work from different PCs
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Don't know yet.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks if you don't want to change original repo.
+Clone when you want to have repo of someone else at your place and make changes to it.
+Branches - for a different version of a code or sth.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+hmm, we can check and compare the to the remote?
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be much harder without.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When trying new feature of a code, and not sure if we want to change master branch with that feature?
